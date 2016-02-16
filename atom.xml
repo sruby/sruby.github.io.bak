@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-16T10:11:46.593Z</updated>
+  <updated>2016-02-16T10:15:30.750Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,11 +19,11 @@
     <title>junction同步Hexo文件到github</title>
     <link href="http://yoursite.com/2016/02/16/junction%E5%90%8C%E6%AD%A5Hexo%E6%96%87%E4%BB%B6%E5%88%B0github/"/>
     <id>http://yoursite.com/2016/02/16/junction同步Hexo文件到github/</id>
-    <published>2016-02-16T10:11:52.804Z</published>
-    <updated>2016-02-16T10:11:46.593Z</updated>
+    <published>2016-02-16T10:15:30.750Z</published>
+    <updated>2016-02-16T10:15:30.750Z</updated>
     
-    <content type="html">&lt;p&gt;###参考:&lt;br&gt;&lt;a href=&quot;http://wsgzao.github.io/post/hexo-guide/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;使用GitHub和Hexo搭建免费静态Blog&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;###改进的地方&lt;br&gt;junction自动同步文件到sruby.github.io目录下.(sruby.github.io是自己创建的项目名称)&lt;/p&gt;
+    <content type="html">&lt;h3 id=&quot;参考&quot;&gt;&lt;a href=&quot;#参考&quot; class=&quot;headerlink&quot; title=&quot;参考:&quot;&gt;&lt;/a&gt;参考:&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;http://wsgzao.github.io/post/hexo-guide/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;使用GitHub和Hexo搭建免费静态Blog&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;改进的地方&quot;&gt;&lt;a href=&quot;#改进的地方&quot; class=&quot;headerlink&quot; title=&quot;改进的地方&quot;&gt;&lt;/a&gt;改进的地方&lt;/h3&gt;&lt;p&gt;junction自动同步文件到sruby.github.io目录下.(sruby.github.io是自己创建的项目名称)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;1.使用github下载sruby.github.io.&lt;/li&gt;
 &lt;li&gt;2.修改本地的sruby.github.io名称为sruby.github.io1.&lt;/li&gt;
@@ -37,8 +37,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;###参考:&lt;br&gt;&lt;a href=&quot;http://wsgzao.github.io/post/hexo-guide/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;使用GitHub和Hexo搭建免费静态Blog&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;###改进的地方&lt;b
+      &lt;h3 id=&quot;参考&quot;&gt;&lt;a href=&quot;#参考&quot; class=&quot;headerlink&quot; title=&quot;参考:&quot;&gt;&lt;/a&gt;参考:&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;http://wsgzao.github.io/post/hexo-guide/&quot; target=&quot;_blank&quot; r
     
     </summary>
     
