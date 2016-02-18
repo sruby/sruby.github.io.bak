@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sruby.github.io/"/>
-  <updated>2016-02-18T03:37:51.928Z</updated>
+  <updated>2016-02-16T10:29:37.400Z</updated>
   <id>http://sruby.github.io/</id>
   
   <author>
@@ -14,26 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="http://sruby.github.io/2016/02/18/about/"/>
-    <id>http://sruby.github.io/2016/02/18/about/</id>
-    <published>2016-02-18T03:37:51.928Z</published>
-    <updated>2016-02-18T03:37:51.928Z</updated>
-    
-    <content type="html">&lt;p&gt;hi,this is sruby. a code dog!&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;hi,this is sruby. a code dog!&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>junction同步Hexo文件到github</title>
